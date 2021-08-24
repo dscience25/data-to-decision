@@ -1,4 +1,4 @@
-# **Data to Decisions!**
+# **Data to Decisions**
 
 *Short description of your project, in one or two sentences.* 
 
