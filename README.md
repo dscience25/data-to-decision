@@ -10,8 +10,8 @@ Placeholder text for linking the other two individual assignments (Data Entry An
 An image of your choosing; make sure it’s safe for work.
 Make sure the page is well formatted for easy reading: take advantage of the formatting options you learned about in the tutorial. You are welcome to get more creative about what you include so long as the page is easy to read and evaluate. Submit the URL to the Readme.md page (the actual page URL, not the repository URL) on Canvas.
 # assignments
-[* ## Data Entry Analysis ]()
-[* ## Data Exploration]()
+* ## [Data Entry Analysis ]()
+* ## [Data Exploration]()
 
 ![apple](https://github.com/dscience25/data-to-decision/blob/0940324ca8e5207f89ca8cc3bd796c642fd3f1f0/apple.jpg)
 ## Copyright and attribution
