@@ -2,7 +2,7 @@
 
 
 # assignments
-* ### [Data Entry Analysis ]()
+* ### [Data Entry Analysis ](https://github.com/dscience25/data-to-decision/tree/main/Data%20Entry%20Analysis)
 * ### [Data Exploration]()
 
 ![apple](https://github.com/dscience25/data-to-decision/blob/0940324ca8e5207f89ca8cc3bd796c642fd3f1f0/apple.jpg)
