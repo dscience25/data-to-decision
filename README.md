@@ -13,7 +13,7 @@ Make sure the page is well formatted for easy reading: take advantage of the for
 * ## Data Entry Analysis 
 * ## Data Exploration
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![apple](https://github.com/dscience25/data-to-decision/blob/0940324ca8e5207f89ca8cc3bd796c642fd3f1f0/apple.jpg)
 ## Copyright and attribution
                       
 Copyright (c)  Version 3, 29 June 2007  Released under the [GNU GENERAL PUBLIC LICENSE](https://github.com/dscience25/data-to-decision/commit/8b5a72b214341d5f0443e50449e9bd212ae9a489)
